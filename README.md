@@ -45,4 +45,3 @@ npm install axios
 - Axios js is a promise-based HTTP library that lets you consume an API service.
 npm install dotenv
 - a dotenv is used to store “environment variables” AKA variables we need to configure our code environment.
-- 
